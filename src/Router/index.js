@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import DashboardView from '../views/Dashboard.vue'
+import DashboardView from '../views/DashboardView.vue' 
 import SearchView from '../views/SearchView.vue'
-import ArchiveView from '../views/Archive.vue'
+import ArchiveView from '../views/ArchiveView.vue'    
 
 const routes = [
   {
