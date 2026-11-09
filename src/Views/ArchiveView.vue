@@ -6,5 +6,5 @@
 </template>
 
 <script setup>
-// Feature logic functions will live here later!
+
 </script>
